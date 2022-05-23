@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/issues"
   },
   "dependencies": {
-    "cypress": "5.6.0",
+    "cypress": "9.7.0",
     "rimraf": "3.0.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Expect.",
